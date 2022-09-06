@@ -1,0 +1,19 @@
+{
+  "name": "js-task",
+  "version": "1.0.0",
+  "description": "mjs module-7",
+  "main": "js_practical_task.js",
+  "author": "Alex Shevelyanchik",
+  "license": "ISC",
+  "jest": {
+    "verbose": true
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
+    "jest": "^28.1.3"
+  }
+}
